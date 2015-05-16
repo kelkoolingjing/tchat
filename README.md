@@ -1,2 +1,2 @@
 # tchat
-chat integration
+chat integration for Kael Stoneheidge
